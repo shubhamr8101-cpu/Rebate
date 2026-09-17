@@ -1,0 +1,1 @@
+- [Node SQLite runtime](sqlite-runtime.md) — use Node 24's built-in SQLite API here; native addon builds may be blocked.
